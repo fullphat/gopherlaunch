@@ -1,0 +1,1 @@
+GopherLaunch is a minimalists dream - it takes up less space than an icon when in its resting position.
